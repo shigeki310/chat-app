@@ -61,7 +61,7 @@ Things you may want to cover:
 ### Association
 
 - belongs_to :room
-- beiongs_to :user
+- belongs_to :user
 
 ## messages テーブル
 
